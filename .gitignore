@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.cache/
+*.cover
+.coverage
+nosetests.xml
+test-results/
+
+# mypy
+.mypy_cache/
+
+# pyre type checker
+.pyre/
+
+# coverage report
+htmlcov/
+coverage.xml
+
+# log files
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore React folder
+wwwroot/
+
+# Others
+*.DS_Store
+*.swp
+*.swo
