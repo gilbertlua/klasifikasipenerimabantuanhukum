@@ -36,7 +36,7 @@ The **C4.5 algorithm** is an extension of the ID3 decision tree algorithm. It se
 
 | Technology | Purpose |
 |------------|---------|
-| Python / C# / (modify as appropriate) | Core implementation |
+| Python | Core implementation |
 | Machine Learning | Classification using C4.5 |
 | Dataset | Historical applicant records |
 
